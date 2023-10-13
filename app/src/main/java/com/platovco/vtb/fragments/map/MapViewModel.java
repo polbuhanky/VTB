@@ -9,6 +9,7 @@ import com.platovco.vtb.models.Mark;
 import com.yandex.mapkit.map.CameraPosition;
 
 import java.util.ArrayList;
+//
 
 public class MapViewModel extends ViewModel {
     public MutableLiveData<ArrayList<Mark>> marks = new MutableLiveData<>();
