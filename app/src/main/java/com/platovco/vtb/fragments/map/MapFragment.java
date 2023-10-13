@@ -81,8 +81,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 
-public class MapFragment extends Fragment
-       // implements ClusterListener, MapObjectTapListener, ClusterTapListener
+public class MapFragment extends Fragment implements ClusterListener, MapObjectTapListener, ClusterTapListener
 {
 //
 //    private MapViewModel mViewModel;
