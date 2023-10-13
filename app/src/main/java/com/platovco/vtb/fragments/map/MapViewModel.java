@@ -1,4 +1,4 @@
-package com.platovco.vtb;
+package com.platovco.vtb.fragments.map;
 
 import androidx.lifecycle.ViewModel;
 
